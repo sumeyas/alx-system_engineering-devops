@@ -1,1 +1,1 @@
-A repo on shell basics
+shell variable expansion
